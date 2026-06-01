@@ -1,13 +1,14 @@
 # Hi, I'm Love Kumar
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6f42c1&height=200&section=header&text=Love%20Pehlaj&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="./profile.png" width="180" style="border-radius:50%;" />
+</p>
+
 
 🎓 Computer Science Student  
 💻 Front-End Developer | Automation Enthusiast  
 🤖 Aspiring AI, Cloud & DevOps Engineer  
 🚀 Building modern web apps and automation systems  
-
----
 
 ---
 
