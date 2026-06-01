@@ -52,5 +52,3 @@ I am a Computer Science student focused on front-end developmen, automation, and
 
 ---
 
-
----
