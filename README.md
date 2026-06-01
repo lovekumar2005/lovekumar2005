@@ -1,10 +1,5 @@
 # Hi, I'm Love Kumar
 
-<p align="center">
-  <img src="./profile.png" width="180" style="border-radius:50%;" />
-</p>
-
-
 🎓 Computer Science Student  
 💻 Front-End Developer | Automation Enthusiast  
 🤖 Aspiring AI, Cloud & DevOps Engineer  
@@ -56,8 +51,5 @@ I am a Computer Science student focused on front-end developmen, automation, and
 
 ---
 
-## Connect With Me
-
-- GitHub: https://github.com/yourusername  
 
 ---
