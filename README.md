@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Love Kumar
 
-<!--
-**lovekumar2005/lovekumar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6f42c1&height=200&section=header&text=Love%20Pehlaj&fontSize=40&fontColor=ffffff)
 
-Here are some ideas to get you started:
+🎓 Computer Science Student  
+💻 Front-End Developer | Automation Enthusiast  
+🤖 Aspiring AI, Cloud & DevOps Engineer  
+🚀 Building modern web apps and automation systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## About Me
+
+I am a Computer Science student focused on front-end developmen, automation, and scalable software systems. I enjoy building real-world projects using modern web technologies and continuously improving my skills in backend development, cloud computing, DevOps, and artificial intelligence.
+
+---
+
+## Skills
+
+### 💻 Programming Languages
+- C  
+- C++  
+- JavaScript  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript (ES6+)  
+- React.js (Learning)  
+- Node.js (Learning)  
+- Express.js (Learning)  
+- MongoDB (Learning)  
+- Responsive Design  
+
+### ⚙️ Automation Tools
+- n8n  
+- Zapier  
+- Make.com  
+
+### 🧰 Tools
+- Git & GitHub  
+- VS Code  
+- Postman (Basic API Testing)  
+
+---
+
+## Long-Term Goals
+
+- AI Engineer (Machine Learning & Intelligent Systems)  
+- Cloud Engineer (AWS / Cloud Infrastructure)  
+- DevOps Engineer (CI/CD, Deployment, Automation)  
+- Full-Stack Developer (Scalable Web Applications)  
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/yourusername  
+
+---
