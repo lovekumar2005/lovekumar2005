@@ -18,7 +18,8 @@ I am a Computer Science student focused on front-end developmen, automation, and
 ### 💻 Programming Languages
 - C  
 - C++  
-- JavaScript  
+- JavaScript
+- Python
 
 ### 🌐 Web Development
 - HTML  
