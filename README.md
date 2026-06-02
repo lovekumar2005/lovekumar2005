@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a Computer Science student focused on front-end developmen, automation, and scalable software systems. I enjoy building real-world projects using modern web technologies and continuously improving my skills in backend development, cloud computing, DevOps, and artificial intelligence.
+I am a Computer Science student focused on front-end development, automation, and scalable software systems. I enjoy building real-world projects using modern web technologies and continuously improving my skills in backend development, cloud computing, DevOps, and artificial intelligence.
 
 ---
 
