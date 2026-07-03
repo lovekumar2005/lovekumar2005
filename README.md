@@ -1,4 +1,4 @@
-# Hi, I'm Love Kumar 👋
+## Hi, I'm Love Kumar 👋
 
 ### 🤖 AI Automation Developer | n8n Workflow Engineer | Front-End Developer | Computer Science Student
 
@@ -19,7 +19,7 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/love-kumar-23866a292/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/></a>
@@ -29,9 +29,9 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 🤖 AI & Automation
+### 🤖 AI & Automation
 
 <p>
 
@@ -49,7 +49,7 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 
 ---
 
-## 💻 Front-End Development
+### 💻 Front-End Development
 
 <p>
 
@@ -63,7 +63,7 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 
 ---
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
 
@@ -76,7 +76,7 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 
 ---
 
-## 🧰 Tools
+### 🧰 Tools
 
 <p>
 
@@ -91,49 +91,26 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 Projects
 
-## 🤖 AI Recruitment & Hiring Automation
+- 🤖 **[AI Recruitment & Hiring Automation](https://github.com/lovekumar2005/ai-recruitment-automation)**  
+  AI-powered recruitment workflow with resume parsing, candidate scoring, interview scheduling, and Recruitment CRM.
 
-🔗 **Repository:** https://github.com/lovekumar2005/ai-recruitment-automation
+- 📱 **[AI Social Media Automation](https://github.com/lovekumar2005/ai-social-media-automation)**  
+  AI-generated content, Slack approval workflow, and automated publishing across multiple platforms.
 
-AI-powered recruitment workflow with resume parsing, candidate scoring, interview scheduling, PDF reports, and Recruitment CRM.
+- 📈 **[AI Lead Generation & Outreach](https://github.com/lovekumar2005/ai-lead-generation-automation)**  
+  AI lead scoring, personalized cold email generation, CRM integration, and outreach automation.
 
----
+- 🍽️ **[AI Restaurant Assistant](https://github.com/lovekumar2005/ai-restaurant-assistant)**  
+  AI-powered reservation management, menu recommendations, customer support, and booking automation.
 
-## 📱 AI Social Media Automation
-
-🔗 **Repository:** https://github.com/lovekumar2005/ai-social-media-automation
-
-Automates AI content generation, Slack approvals, and publishing across LinkedIn, Facebook, and Instagram.
-
----
-
-## 📈 AI Lead Generation & Outreach
-
-🔗 **Repository:** https://github.com/lovekumar2005/ai-lead-generation-automation
-
-Automates lead qualification, AI scoring, personalized cold emails, and CRM updates.
+- 🏥 **[AI Clinic Booking System](https://github.com/lovekumar2005/ai-clinic-booking-system)**  
+  Appointment scheduling, automated reminders, Google Calendar integration, and patient communication.
 
 ---
 
-## 🍽️ AI Restaurant Assistant
-
-🔗 **Repository:** https://github.com/lovekumar2005/ai-restaurant-assistant
-
-AI assistant for reservations, menu recommendations, customer support, and booking management.
-
----
-
-## 🏥 AI Clinic Booking System
-
-🔗 **Repository:** https://github.com/lovekumar2005/ai-clinic-booking-system
-
-Automates appointment scheduling, reminders, Google Calendar integration, and patient communication.
-
----
-
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - AI Agents & Agentic Workflows
 - Model Context Protocol (MCP)
@@ -147,7 +124,7 @@ Automates appointment scheduling, reminders, Google Calendar integration, and pa
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   
@@ -167,7 +144,7 @@ Automates appointment scheduling, reminders, Google Calendar integration, and pa
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
 [![Love Kumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lovekumar2005&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
