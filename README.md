@@ -8,23 +8,23 @@ I build AI-powered automation systems that help businesses eliminate repetitive 
 
 ## 📊 GitHub Profile
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=lovekumar2005&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/lovekumar2005?label=Followers&style=flat)
 
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/lovekumar2005?affiliations=OWNER&style=flat)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/love-kumar-23866a292/)
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Eg3jGb0)
 
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?logo=upwork&logoColor=white)](YOUR_UPWORK_URL)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0107954c18ad421b7e)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-black)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-black)](https://example.com)
 
 ---
 
@@ -148,27 +148,27 @@ Lead collection, AI qualification, personalized cold emails, CRM updates, and ou
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovekumar2005&show_icons=true&theme=github_dark)
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lovekumar2005&layout=compact&theme=github_dark)
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=lovekumar2005&theme=github-dark)
 
 ---
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lovekumar2005&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 # 📊 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lovekumar2005&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
