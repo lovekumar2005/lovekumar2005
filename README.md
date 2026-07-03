@@ -29,33 +29,6 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 
 ---
 
-# 💼 What I Build
-
-### 🤖 AI Automation
-
-- AI Business Automation
-- AI Agents
-- Workflow Automation
-- Business Process Automation
-- API Integrations
-
-### 📈 Sales & Marketing Automation
-
-- AI Lead Generation
-- Personalized Email Outreach
-- CRM Automation
-- AI Social Media Automation
-
-### 👥 Business Solutions
-
-- AI Recruitment & Hiring Automation
-- AI Chatbots
-- Appointment Booking Systems
-- Google Workspace Automation
-- Custom Business Workflows
-
----
-
 # 🛠 Tech Stack
 
 ## 🤖 AI & Automation
@@ -63,21 +36,13 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 <p>
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Make-6C63FF"/>
-
 <img src="https://img.shields.io/badge/GoHighLevel-1E88E5"/>
-
 <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Groq-000000"/>
-
 <img src="https://img.shields.io/badge/Claude-D97706"/>
-
 <img src="https://img.shields.io/badge/OpenClaw-darkgreen"/>
-
 <img src="https://img.shields.io/badge/REST_API-green"/>
-
 <img src="https://img.shields.io/badge/Webhooks-blue"/>
 
 </p>
@@ -89,13 +54,9 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 <p>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
 
 </p>
@@ -107,11 +68,8 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 <p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/C-00599C?logo=c"/>
-
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus"/>
 
 </p>
@@ -123,15 +81,10 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 <p>
 
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github"/>
-
 <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode"/>
-
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white"/>
 
 </p>
@@ -140,32 +93,57 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 
 # ⭐ Featured Projects
 
-### 🤖 AI Recruitment & Hiring Automation
+## 🤖 AI Recruitment & Hiring Automation
 
-Automates resume parsing, AI candidate scoring, interview scheduling, Gmail notifications, PDF evaluation reports, and Recruitment CRM using n8n, Groq AI, Google Workspace, and PDFShift.
+🔗 **Repository:** https://github.com/lovekumar2005/ai-recruitment-automation
 
----
-
-### 📱 AI Social Media Automation
-
-Generates AI captions and marketing images, manages Slack approval workflows, publishes content across multiple platforms, and tracks publishing status automatically.
+AI-powered recruitment workflow with resume parsing, candidate scoring, interview scheduling, PDF reports, and Recruitment CRM.
 
 ---
 
-### 📈 AI Lead Generation & Outreach
+## 📱 AI Social Media Automation
 
-Automates lead collection, AI lead scoring, personalized cold email generation, CRM updates, and outreach workflows using AI and n8n.
+🔗 **Repository:** https://github.com/lovekumar2005/ai-social-media-automation
+
+Automates AI content generation, Slack approvals, and publishing across LinkedIn, Facebook, and Instagram.
 
 ---
 
-# 🚀 Currently Working On
+## 📈 AI Lead Generation & Outreach
 
-- 🍽️ AI Restaurant Assistant
-- 🏥 AI Clinic Booking System
-- 🤖 AI Agents
-- ⚡ Advanced n8n Automations
-- ☁️ AWS & Cloud Computing
-- 🐳 Docker & CI/CD
+🔗 **Repository:** https://github.com/lovekumar2005/ai-lead-generation-automation
+
+Automates lead qualification, AI scoring, personalized cold emails, and CRM updates.
+
+---
+
+## 🍽️ AI Restaurant Assistant
+
+🔗 **Repository:** https://github.com/lovekumar2005/ai-restaurant-assistant
+
+AI assistant for reservations, menu recommendations, customer support, and booking management.
+
+---
+
+## 🏥 AI Clinic Booking System
+
+🔗 **Repository:** https://github.com/lovekumar2005/ai-clinic-booking-system
+
+Automates appointment scheduling, reminders, Google Calendar integration, and patient communication.
+
+---
+
+# 🌱 Currently Learning
+
+- AI Agents & Agentic Workflows
+- Model Context Protocol (MCP)
+- LangChain & RAG Applications
+- Multi-Agent Systems
+- Docker & Kubernetes
+- AWS Cloud
+- CI/CD & GitHub Actions
+- Linux & DevOps
+- LLM Applications & Vector Databases
 
 ---
 
@@ -197,7 +175,7 @@ Automates lead collection, AI lead scoring, personalized cold email generation, 
 
 ## 📫 Let's Connect
 
-I'm always interested in collaborating on AI Automation, Workflow Engineering, API Integrations, and Full-Stack Development projects.
+I'm always interested in collaborating on **AI Automation**, **Workflow Engineering**, **API Integrations**, and **Full-Stack Development** projects.
 
 Feel free to connect with me on **LinkedIn**, **Fiverr**, or **Upwork**.
 
