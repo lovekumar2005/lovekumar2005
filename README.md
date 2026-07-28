@@ -36,7 +36,6 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 <p>
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Make-6C63FF"/>
 <img src="https://img.shields.io/badge/GoHighLevel-1E88E5"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
