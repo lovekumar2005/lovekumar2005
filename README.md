@@ -96,7 +96,7 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 - 🤖 **[AI Recruitment & Hiring Automation](https://github.com/lovekumar2005/ai-recruitment-hiring-automation)**  
   AI-powered recruitment workflow with resume parsing, candidate scoring, interview scheduling, and Recruitment CRM.
 
-- 📱 **[AI Social Media Automation](https://github.com/lovekumar2005/ai-social-media-automation)**  
+- 📱 **[AI Social Media Automation](https://github.com/lovekumar2005/AI-Social-Media-Content-Publishing-Automation.git)**  
   AI-generated content, Slack approval workflow, and automated publishing across multiple platforms.
 
 - 📈 **[AI Lead Generation & Outreach](https://github.com/lovekumar2005/ai-lead-generation-automation)**  
