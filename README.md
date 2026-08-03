@@ -57,8 +57,8 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
 
 </p>
 
