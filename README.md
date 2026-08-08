@@ -123,6 +123,7 @@ I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Developme
 - CI/CD & GitHub Actions
 - Linux & DevOps
 - LLM Applications & Vector Databases
+- [Data Structures & Algorithms](https://github.com/lovekumar2005/dsa-cpp)
 
 ---
 
