@@ -2,13 +2,15 @@
 
 ### 🤖 AI Automation Developer | n8n Workflow Engineer | Front-End Developer | Computer Science Student
 
-I build **AI-powered automation systems** that help businesses eliminate repetitive work, integrate their tools, and streamline operations through intelligent workflows.
+I build **AI-powered automation systems and modern web applications** that help businesses automate repetitive tasks, improve productivity, and streamline their workflows.
 
-My focus is on developing **production-ready automation solutions** using AI, APIs, and modern automation platforms. I enjoy solving real business problems by connecting applications, automating manual processes, and creating scalable systems that improve productivity and reduce operational costs.
+As an **AI Automation Developer**, I create intelligent workflows using **n8n, Make, AI APIs, webhooks, and REST APIs** to connect different tools and automate business processes.
 
-My experience includes building AI-powered solutions for **Recruitment & Hiring Automation**, **Lead Generation**, **Social Media Automation**, **Appointment Scheduling**, **CRM Automation**, **AI Chatbots**, and **Custom Business Workflows**.
+As a **Front-End Developer**, I build **responsive, modern, and user-friendly web applications** using **JavaScript, React.js, Redux Toolkit, and Tailwind CSS**.
 
-I'm continuously expanding my expertise in **AI Agents**, **Full-Stack Development**, **Cloud Computing**, and **DevOps** while building practical projects that solve real-world business challenges.
+I enjoy turning ideas into **functional digital solutions**, from AI-powered automation workflows to interactive React applications and e-commerce platforms.
+
+I'm continuously learning and exploring **AI Agents, API Integrations, Cloud Computing, DevOps, and modern web technologies** while building practical projects that solve real-world problems.
 
 ---
 
