@@ -1,246 +1,416 @@
-<!-- ===================== HERO ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e3a8a&height=220&section=header&text=LOVE%20KUMAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20AUTOMATION%20%7C%20n8n%20%7C%20AI%20AGENTS%20%7C%20REACT&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
-</p>
+# LOVE KUMAR
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Automation+Developer;Building+Intelligent+Workflows; n8n+%7C+AI+Agents+%7C+REST+APIs;React+%7C+JavaScript+%7C+Modern+Web+Apps" />
-</p>
+### AI Automation Developer · n8n Workflow Engineer · Front-End Developer
 
-<p align="center">
-  <a href="https://lovekumar.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/love-kumar-23866a292/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.fiverr.com/s/Eg3jGb0">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~0107954c18ad421b7e">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-</p>
+Building **AI-powered automation systems, intelligent workflows, and modern web applications.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lovekumar2005&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
-</p>
+<br/>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/love-kumar-23866a292/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.fiverr.com/s/Eg3jGb0">
+<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~0107954c18ad421b7e">
+<img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=lovekumar2005&label=PROFILE+VIEWS&color=58A6FF&style=flat-square"/>
+
+</div>
 
 ---
 
-# About Me
+## About Me
 
-I'm **Love Kumar**, an AI Automation Developer and Front-End Developer focused on building systems that automate real-world processes.
+I'm **Love Kumar**, an **AI Automation Developer** focused on building systems that connect **AI, APIs, business tools, and automated workflows**.
 
-I work mainly with:
+I enjoy turning repetitive processes into intelligent systems that can **receive information, make decisions, communicate with users, and execute actions automatically.**
 
-* **AI Automation & Workflow Engineering**
-* **n8n & API Integrations**
-* **AI Agents & LLM Applications**
-* **React & Modern Front-End Development**
-* **REST APIs & Webhooks**
+### Core Focus
 
-I enjoy turning manual processes into **automated, intelligent workflows** and turning ideas into **functional web applications**.
+* AI Automation & Workflow Engineering
+* n8n & Make
+* AI Agents & LLM Applications
+* REST APIs & Webhooks
+* WhatsApp Automation
+* Business Process Automation
+* React & Modern Front-End Development
+
+> **My goal is simple: build practical systems that solve real-world problems.**
 
 ---
 
 # What I Build
 
-```text
-                  ┌─────────────────────┐
-                  │       BUSINESS      │
-                  │       PROCESS       │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │    AI AUTOMATION    │
-                  │        n8n          │
-                  └──────────┬──────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-          AI / LLMs       REST APIs      Webhooks
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                  ┌─────────────────────┐
-                  │  AUTOMATED SYSTEM   │
-                  └─────────────────────┘
-```
-
----
-
-# Tech Stack
-
-### AI & Automation
-
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Webhooks-0F766E?style=for-the-badge"/>
-</p>
-
-### Front-End
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Programming & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-# Featured Projects
-
 <table>
 <tr>
-<td width="50%">
 
-## AI Restaurant Assistant
+<td width="33%" align="center">
 
-AI-powered WhatsApp assistant built to automate restaurant conversations.
+### AI Automation
 
-**Stack**
+Designing intelligent workflows that connect AI models, APIs, CRMs, communication platforms, and business tools.
 
-`n8n` `OpenAI` `WhatsApp` `Google Sheets` `Webhooks`
+<br/>
 
-**Features**
-
-* AI customer conversations
-* Menu navigation
-* Reservation workflow
-* Automated responses
-* Google Sheets integration
+`n8n` `Make` `OpenAI` `APIs`
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-## AI Medical Receptionist
+### AI Agents
 
-AI-powered receptionist workflow designed to automate patient communication.
+Building AI-powered systems capable of understanding information, making decisions, and interacting with external services.
 
-**Stack**
+<br/>
 
-`n8n` `AI` `Webhooks` `APIs`
-
-**Features**
-
-* Automated patient conversations
-* Information collection
-* Appointment workflows
-* AI-powered responses
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## AI Job Finder
-
-AI-powered job discovery and resume dashboard.
-
-**Stack**
-
-`JavaScript` `AI` `REST API` `HTML` `CSS`
-
-**Features**
-
-* Job discovery
-* Resume management
-* Saved jobs
-* Application tracking
-* Job dashboard
+`LLMs` `Agents` `Webhooks`
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-## React E-Commerce
+### Web Applications
 
-Modern e-commerce application built with React.
+Building responsive and modern interfaces for real-world applications and AI-powered products.
 
-**Stack**
+<br/>
 
-`React` `Redux Toolkit` `Tailwind CSS` `JavaScript`
-
-**Features**
-
-* Product browsing
-* Search & filtering
-* Cart
-* Wishlist
-* Authentication
-* Checkout UI
+`React` `JavaScript` `Redux`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# GitHub Activity
+# Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lovekumar2005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lovekumar2005&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
+## AI Automation
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lovekumar2005&theme=github-dark&hide_border=true" />
-</p>
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### AI Sales Lead Qualification & Follow-Up
+
+An intelligent sales automation system that qualifies incoming leads, analyzes customer information, and triggers personalized follow-up communication automatically.
+
+**Built With**
+
+`n8n` `AI` `APIs` `Webhooks`
+
+**Key Features**
+
+* Lead qualification
+* Customer data analysis
+* AI-based decision making
+* Personalized follow-ups
+* Automated workflow routing
+
+<br/>
+
+<a href="YOUR_SALES_AUTOMATION_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### WhatsApp AI Medical Receptionist
+
+An AI-powered WhatsApp receptionist that handles patient conversations, answers common questions, manages appointment requests, and connects multiple automation workflows.
+
+**Built With**
+
+`n8n` `WhatsApp` `AI` `APIs`
+
+**Key Features**
+
+* Patient conversations
+* FAQ handling
+* Appointment requests
+* Automated responses
+* Workflow routing
+
+<br/>
+
+<a href="YOUR_MEDICAL_RECEPTIONIST_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### AI Social Media Automation
+
+An automated content workflow for generating, organizing, scheduling, and publishing social media content while reducing repetitive manual tasks.
+
+**Built With**
+
+`n8n` `AI` `APIs` `Automation`
+
+**Key Features**
+
+* AI content generation
+* Content organization
+* Scheduling workflows
+* Automated publishing
+* Multi-step automation
+
+<br/>
+
+<a href="YOUR_SOCIAL_MEDIA_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### AI Restaurant WhatsApp Assistant
+
+An AI-powered WhatsApp assistant designed to automate restaurant customer interactions and reservation workflows.
+
+**Built With**
+
+`n8n` · `OpenAI` · `WhatsApp` · `Webhooks` · `Google Sheets`
+
+**Includes**
+
+* AI conversations
+* Menu navigation
+* Reservation automation
+* Customer data handling
+* Automated responses
+* Workflow routing
+
+<br/>
+
+<a href="YOUR_RESTAURANT_ASSISTANT_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Medical Receptionist
+
+An AI-powered receptionist workflow designed to automate patient communication and appointment-related processes.
+
+**Built With**
+
+`n8n` · `AI` · `Webhooks` · `REST APIs`
+
+**Includes**
+
+* Patient conversations
+* Information collection
+* Appointment workflows
+* Automated responses
+* Workflow routing
+
+<br/>
+
+<a href="YOUR_MEDICAL_RECEPTIONIST_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Contribution Graph
+# Web Development Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovekumar2005&theme=github-dark&hide_border=true&area=true" width="100%"/>
-</p>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### AI Job Finder & Resume Dashboard
+
+A job discovery and resume management platform designed to simplify the job-search process.
+
+**Built With**
+
+`JavaScript` · `REST APIs` · `AI` · `HTML` · `CSS`
+
+**Includes**
+
+* Job discovery
+* Saved jobs
+* Application tracking
+* Resume management
+* Dashboard
+* Job search integration
+
+<br/>
+
+<a href="YOUR_JOBPILOT_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### React E-Commerce
+
+A modern e-commerce application with a complete shopping experience and responsive user interface.
+
+**Built With**
+
+`React` · `Redux Toolkit` · `Tailwind CSS` · `JavaScript`
+
+**Includes**
+
+* Product browsing
+* Search
+* Filtering & sorting
+* Shopping cart
+* Wishlist
+* Authentication
+* Checkout UI
+* Responsive design
+
+<br/>
+
+<a href="https://github.com/lovekumar2005/shopease-react-ecommerce">
+<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Contribution Snake
+# Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lovekumar2005/lovekumar2005/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
+<div align="center">
+
+## AI & Automation
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webhooks-0F766E?style=for-the-badge"/>
+
+<br/><br/>
+
+## Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=dark"/>
+
+<br/><br/>
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js&theme=dark"/>
+
+<br/><br/>
+
+## Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+
+</div>
 
 ---
 
-# Let's Build Something
+# GitHub Statistics
 
-I'm open to opportunities involving:
+<div align="center">
 
-**AI Automation · n8n · AI Agents · API Integrations · React · Web Applications**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lovekumar2005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 
-<p align="center">
-  <a href="https://lovekumar.vercel.app">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovekumar2005&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:111827,100:0f172a&height=100&section=footer" width="100%"/>
-</p>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=lovekumar2005&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+### Building · Automating · Learning · Shipping
+
+<br/>
+
+`AI Automation`   `n8n`   `AI Agents`   `React`   `APIs`
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lovekumar2005&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# Let's Build Something Intelligent
+
+<div align="center">
+
+### Have an idea that could be automated?
+
+I build **AI-powered workflows, automation systems, API integrations, and modern web applications** that turn ideas into working systems.
+
+<br/>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+ 
+
+<a href="mailto:lovepehlaj2005@gmail.com">
+<img src="https://img.shields.io/badge/Contact%20Me-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**AI Automation · AI Agents · n8n · API Integrations · React**
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:161B22,70:1F6FEB,100:58A6FF&height=140&section=footer"/>
+
+</div>
