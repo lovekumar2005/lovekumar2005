@@ -96,8 +96,6 @@ Modern and responsive interfaces built for real-world products and AI-powered ap
 
 An intelligent sales automation workflow that qualifies incoming leads, analyzes customer information, and triggers personalized follow-up communication automatically.
 
-<br/>
-
 **Built With**
 
 `n8n` · `AI` · `APIs` · `Webhooks`
