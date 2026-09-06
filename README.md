@@ -29,19 +29,9 @@
 
 ## About Me
 
-I'm **Love Kumar**, an **AI Automation Developer** focused on building systems that connect **AI, APIs, business tools, and automated workflows**.
+I'm **Love Kumar**, an **AI Automation Developer** focused on building intelligent systems that connect **AI, APIs, business tools, and automated workflows**.
 
-I build practical solutions that automate repetitive processes, connect different platforms, and use AI to make workflows more intelligent.
-
-### What I Focus On
-
-* AI Automation & Workflow Engineering
-* n8n & Make
-* AI Agents & LLM Applications
-* REST APIs & Webhooks
-* WhatsApp Automation
-* Business Process Automation
-* React & Modern Front-End Development
+I specialize in **n8n, Make, AI Agents, REST APIs, Webhooks, WhatsApp Automation, and React**, with a focus on turning repetitive processes into practical, automated solutions.
 
 > **Turning manual processes into intelligent, automated systems.**
 
@@ -269,16 +259,6 @@ A job discovery and resume management platform designed to simplify the job-sear
 ### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
-
-</div>
-
----
-
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lovekumar2005&theme=github-dark-blue&hide_border=true&background=0D1117"/>
 
 </div>
 
