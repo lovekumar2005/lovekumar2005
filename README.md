@@ -6,7 +6,6 @@
 
 **Building intelligent automation systems, AI-powered workflows, and modern web applications.**
 
-<br/>
 
 <a href="https://love-kumar-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
