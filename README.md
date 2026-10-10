@@ -2,7 +2,7 @@
 
 # LOVE KUMAR
 
-### AI Automation Developer · n8n Workflow Engineer · Front-End Developer
+### AI Automation Developer · n8n Workflow Engineer 
 
 **Building intelligent automation systems, AI-powered workflows, and modern web applications.**
 
