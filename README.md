@@ -8,19 +8,16 @@
 
 
 <a href="https://love-kumar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/love-kumar-23866a292/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="https://www.fiverr.com/s/Eg3jGb0">
-<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr"/>
 </a>
-&nbsp;
 <a href="https://www.upwork.com/freelancers/~0107954c18ad421b7e">
-<img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
 
 </div>
